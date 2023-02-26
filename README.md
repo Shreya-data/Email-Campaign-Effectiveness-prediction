@@ -1,6 +1,6 @@
 # Email-Campaign-Effectiveness-prediction
-Problem Statement
-Small to medium business owners are using Gmail-based email marketing strategies to convert prospective customers into leads, but they are unable to track which emails are being ignored, read, or acknowledged by the reader. They want to create a machine learning model to help characterize and track these emails. The main objective is to improve the effectiveness of their email marketing efforts and increase customer retention.
+#Problem Statement:
+#Small to medium business owners are using Gmail-based email marketing strategies to convert prospective customers into leads, but they are unable to track which emails are being ignored, read, or acknowledged by the reader. They want to create a machine learning model to help characterize and track these emails. The main objective is to improve the effectiveness of their email marketing efforts and increase customer retention.
 Variables Description:
 Email_Id - Email id of customer
 Email_Type - Email type contains 2 categories 1 and 2. We can assume that the types are like promotional email or sales email.

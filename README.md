@@ -29,3 +29,5 @@ Total_links - Total number of links in the email
 Total_Images - Total Number of images in the email
 
 Email_Status - Our target variable which contains whether the mail was ignored, read, acknowledged by the reader
+
+
